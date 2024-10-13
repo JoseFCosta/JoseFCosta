@@ -3,10 +3,11 @@
 📖 Estou cursando **Análise e Desenvolvimento de Sistemas** e tenho muito interesse em me tornar um **Desenvolvedor Full Stack**. 
 ✨Atualmente, estou aprimorando minhas habilidades em diversas tecnologias, com foco no desenvolvimento web completo
 
+
 ## 
 <div>
-  <img height="180em" width="40" src="https://github-readme-stats.vercel.app/api?username=JoseFCosta&show_icons=true&theme=dark" alt="Estatísticas GitHub"/>
-  <img height="180em" width="40"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFCosta&layout=compact&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseFCosta&show_icons=true&theme=dark" alt="Estatísticas GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFCosta&layout=compact&show_icons=true&theme=dark"/>
 </div>
 
 ## 
