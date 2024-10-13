@@ -5,7 +5,7 @@
 
 ## 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: block; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=JoseFCosta&show_icons=true&theme=dark" alt="Estatísticas GitHub" style="width: 48%; height: 200px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFCosta&layout=compact&show_icons=true&theme=dark" alt="Top Langs" style="width: 48%; height: 200px;" />
 </div>
