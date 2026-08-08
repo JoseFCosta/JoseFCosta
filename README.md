@@ -1,8 +1,6 @@
 ## Olá, sou o José Fernando 👋
 
-📖 Formado em **Análise e Desenvolvimento de Sistemas** e Desenvolvedor **Full Stack**, atuando principalmente com **C#, .NET e React**.
-
-✨ Estou sempre aprimorando minhas habilidades no desenvolvimento web completo (front-end + back-end).
+📖 Formado em **Análise e Desenvolvimento de Sistemas** e Desenvolvedor **Full Stack**, atuando principalmente com **C#, .NET e React**. 📖
 
 ## 
 
